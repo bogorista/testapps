@@ -1,0 +1,24 @@
+{
+  "name": "freelancecockpit",
+  "version": "3.0.0",
+  "description": "Freelance Cockpit Project Management System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@192.168.1.121/volume1/homes/git/fc-dev.git"
+  },
+  "keywords": [
+    "Freelance",
+    "Cockpit"
+  ],
+  "author": "Luxsys",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-15",
+    "require-dir": "^0.3.2"
+  }
+}
